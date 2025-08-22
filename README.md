@@ -1,0 +1,1 @@
+This code is used by the Nutrient Movement & Modelling Lab to post-process CO2 peaks measured on the LI-850. The raw data is saved in a file called IRGA_output.txt produced by the Licor software. The user needs to complete the IRGA_times.csv file during the injections. The script can be run during the data collection to verify the quality of the data.
